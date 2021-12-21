@@ -1,18 +1,6 @@
-## Getting Started
+# Magic Master Micro Plotter
+our magic plotter is a GUI applicatio that plot arbitrary‌ user-entered‌ ‌function. By taking ‌min‌ ‌and‌ ‌max‌ ‌values‌ ‌of‌ ‌x‌ ‌from‌ ‌the‌ ‌user.‌ he‌ ‌following‌ ‌operators‌ ‌are‌ ‌supported:‌ (‌+‌ ‌-‌ ‌/‌ ‌*‌ ‌^), logarithmic ,trigonometric and exponentioal function.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Documented using DocStrings
+Tested using JUnit
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
