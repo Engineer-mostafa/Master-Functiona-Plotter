@@ -29,7 +29,8 @@ our magic plotter is a GUI applicatio that plot arbitrary‌ user-entered ‌fun
   | 1 / x  |![Screenshot (1156)](https://user-images.githubusercontent.com/49917088/147082068-d966e29a-99ba-4c93-a20a-0f10c764b686.png) |
   | sin(x)   |![Screenshot (1158)](https://user-images.githubusercontent.com/49917088/147082176-ac460a9e-30a7-4a6f-a7b0-b594e5b3f4da.png)| 
   | log(x)   |![Screenshot (1159)](https://user-images.githubusercontent.com/49917088/147082189-92b734af-0ec8-4cc3-bd2b-6e89217fca4c.png)| 
-  
+  | e(x)   |![Screenshot (1160)](https://user-images.githubusercontent.com/49917088/147083028-e229ff74-a024-4ae4-9772-86a8be6b694c.png)| 
+
   
   # Run Wrong Tests Screenshots
   | information | Image | 
