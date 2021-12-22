@@ -14,14 +14,14 @@ our magic plotter is a GUI applicatio that plot arbitrary‌ user-entered ‌fun
 
 
 
-## [unit tests](/src/EquationFromDataTest.java)
+## :test_tube: [unit tests](/src/EquationFromDataTest.java)
 - [x] plus operator 
 - [x] minus operator
 - [x] multiplication operator
 - [x] division operator
 - [x] power operator
 
-# Run Right Tests Screenshots
+# :heavy_check_mark: Run Right Tests Screenshots
   | information | Image | 
   | --------- | -------- | 
   | basic function |![Screenshot (1155)](https://user-images.githubusercontent.com/49917088/147081864-ef0cf508-827c-4be9-9ccc-51985807d0d2.png) | 
@@ -32,7 +32,7 @@ our magic plotter is a GUI applicatio that plot arbitrary‌ user-entered ‌fun
   | e(x)   |![Screenshot (1160)](https://user-images.githubusercontent.com/49917088/147083028-e229ff74-a024-4ae4-9772-86a8be6b694c.png)| 
 
   
-  # Run Wrong Tests Screenshots
+  # :x: Run Wrong Tests Screenshots
   | information | Image | 
   | --------- | -------- | 
   | minumum > maximum |![wrong2](https://user-images.githubusercontent.com/49917088/147082417-d4d54bf8-4d4b-4b41-b4c4-801569585c18.png) | 
